@@ -1,3 +1,3 @@
 ﻿Creating a new branch is quick.
 只add，未commit
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
